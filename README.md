@@ -21,4 +21,10 @@ pandas library can perform data manipulation and analysis. In particular, it off
 **Day2 of 66DaysOfData!**
 
 - Today I've completed the [Pandas](https://www.kaggle.com/learn/pandas) course from Kaggle.com and got hands-on experience on "Creating, Reading and Writing Indexing", "Selecting & Assigning", "Summary Functions and Maps", "Grouping and Sorting", "Data Types and Missing Values", "Renaming and Combining".
-
+- Here are links to my notebooks:
+  1. [Pandas Exercise 1](https://www.kaggle.com/swapnilbhange/pandas-exercise-1-creating-reading-and-writing)
+  2. [Pandas Exercise 2](https://www.kaggle.com/swapnilbhange/pandas-exercise-2-indexing-selecting-assigning)
+  3. [Pandas Exercise 3](https://www.kaggle.com/swapnilbhange/pandas-exercise-3-summary-functions-and-maps)
+  4. [Pandas Exercise 4](https://www.kaggle.com/swapnilbhange/pandas-exercise-4-grouping-and-sorting)
+  5. [Pandas Exercise 5](https://www.kaggle.com/swapnilbhange/pandas-exercise-5-data-types-and-missing-values)
+  6. [Pandas Exercise 6](https://www.kaggle.com/swapnilbhange/pandas-exercise-6-renaming-and-combining)
