@@ -1,6 +1,7 @@
 # Journey of 66-Days-Of-Data in Data Science and Machine Learning
 
 The #66DaysOfData challenge is designed to help you create great data science learning habits.
+---
 
 
 **Day1 of 66DaysOfData!**
@@ -15,3 +16,9 @@ pandas library can perform data manipulation and analysis. In particular, it off
   1. [Tutorial Point- NumPy](https://www.tutorialspoint.com/numpy/index.htm)
   
   2. [RealPython - Numpy](https://realpython.com/numpy-array-programming/)
+---
+
+**Day2 of 66DaysOfData!**
+
+- Today I've completed the [Pandas](https://www.kaggle.com/learn/pandas) course from Kaggle.com and got hands-on experience on "Creating, Reading and Writing Indexing", "Selecting & Assigning", "Summary Functions and Maps", "Grouping and Sorting", "Data Types and Missing Values", "Renaming and Combining".
+
