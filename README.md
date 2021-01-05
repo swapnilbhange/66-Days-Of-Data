@@ -43,4 +43,6 @@ pandas library can perform data manipulation and analysis. In particular, it off
 
 **Day 05 of 66DaysOfData!**
 
-- Today I've resumed learning about the Data Structures & Algorithms in Python. And was able to understand Hash Table, Stack, Queue and Tree(General Tree)
+- Today I've resumed learning about the Data Structures & Algorithms in Python. And was able to understand Hash Table, Stack, Queue and Tree(General Tree).
+
+---
