@@ -50,3 +50,5 @@ pandas library can perform data manipulation and analysis. In particular, it off
 **Day 06 of 66DaysOfData!**
 
 - Today I've resumed learning about the Data Structures & Algorithms in Python. And was able to understand Hash Binary Tree, Graph, Binary Search and various sorting techniques like Bubble sort, Quick sort, Insertion sort, Merge Sort, Shell sort and Selection sort.
+
+---
