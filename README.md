@@ -52,3 +52,10 @@ pandas library can perform data manipulation and analysis. In particular, it off
 - Today I've resumed learning about the Data Structures & Algorithms in Python. And was able to understand Hash Binary Tree, Graph, Binary Search and various sorting techniques like Bubble sort, Quick sort, Insertion sort, Merge Sort, Shell sort and Selection sort.
 
 ---
+
+**Day 07 of 66DaysOfData!**
+
+- After the Data Srtucture in pytthon, i decided to learn about Statistics adn Probability for Data Sceince. 
+- Today I've watch this amazon short video on [Probability for Data Science and Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn) by 
+Derek Banas on Youtube.
+
