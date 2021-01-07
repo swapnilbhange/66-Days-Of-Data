@@ -56,6 +56,6 @@ pandas library can perform data manipulation and analysis. In particular, it off
 **Day 07 of 66DaysOfData!**
 
 - After the Data Srtucture in pytthon, i decided to learn about Statistics adn Probability for Data Sceince. 
-- Today I've watch this amazon short video on [Probability for Data Science and Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn) by 
+- Today I've watched this amazing short video on [Probability for Data Science and Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn) by 
 Derek Banas on Youtube.
 ---
