@@ -62,3 +62,7 @@ Derek Banas on Youtube.
 **Day 07 of 66DaysOfData!**
 
 - Today I've Started watching the [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) on Khan Academy.
+- And covered following topics on "Analyzing categorical data"
+  1. Analyzing one categorical variable 
+  2. Two-way tables
+  3. Distributions in two-way tables
