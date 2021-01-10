@@ -74,3 +74,7 @@ Derek Banas on Youtube.
 - Today I've Started learning about Statistics for Data Sceince.
 -  Today I've watched this amazing short video on [Statistics for Data Science and Machine Learning](https://www.youtube.com/watch?v=tcusIOfI_GM&t=87s) by 
 Derek Banas on Youtube.
+
+---
+
+**Day 10 of 66DaysOfData!**
