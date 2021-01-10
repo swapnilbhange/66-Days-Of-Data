@@ -79,6 +79,6 @@ Derek Banas on Youtube.
 
 **Day 10 of 66DaysOfData!**
 
-- Today I've completed course [Statistics for Data Science and Business Analysis]() on Udemy
-- During this certification I was able to understand various statistics like 
+- Today I revisited the course [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/) on Udemy.
+- During this certification I was able to understand various statistics concepts like 
   - Fundamentals of statistics, different types of data and how to plot them, Measures of Central tendency, asymmetry, and variability, correlation and covariance, different types of distributions, Confidence intervals, hypothesis testing, mechanics of regression analysis, dummy variables...
