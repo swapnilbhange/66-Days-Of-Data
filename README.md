@@ -82,3 +82,4 @@ Derek Banas on Youtube.
 - Today I revisited the course [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/) on Udemy.
 - During this certification I was able to understand various statistics concepts like 
   - Fundamentals of statistics, different types of data and how to plot them, Measures of Central tendency, asymmetry, and variability, correlation and covariance, different types of distributions, Confidence intervals, hypothesis testing, mechanics of regression analysis, dummy variables...
+  - [Certificate](https://raw.githubusercontent.com/swapnilbhange/66-Days-Of-Data/main/Certificates/Statistics%20UC-2df08ae1-b1e4-48f1-8538-9932ee1333cd.jpg)
