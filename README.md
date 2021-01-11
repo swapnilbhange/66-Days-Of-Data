@@ -85,5 +85,8 @@ Derek Banas on Youtube.
   - [Certificate](https://raw.githubusercontent.com/swapnilbhange/66-Days-Of-Data/main/Certificates/Statistics%20UC-2df08ae1-b1e4-48f1-8538-9932ee1333cd.jpg)
   
   ---
-  **Day 11 of 66DaysOfData!**
-  
+**Day 11 of 66DaysOfData!**
+
+- Today I've continued learning about Statistics.
+-  Today I've started watching this amazing playlist on [Statistics](https://youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) by 
+CrashCourse on Youtube.
