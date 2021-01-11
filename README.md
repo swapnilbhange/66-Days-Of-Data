@@ -90,4 +90,4 @@ Derek Banas on Youtube.
 - Today I've continued learning about Statistics.
 -  Today I've started watching this amazing playlist on [Statistics](https://youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) by 
 CrashCourse on Youtube.
-- Here are the list of Resources to learn [Statistics](https://www.kaggle.com/getting-started/205454).
+- Here is the list of Resources to learn [Statistics](https://www.kaggle.com/getting-started/205454).
