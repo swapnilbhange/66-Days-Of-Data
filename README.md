@@ -95,3 +95,6 @@ CrashCourse on Youtube.
 ---
 **Day 12 of 66DaysOfData!**
 - Today I resumed learning about Statistics...
+---
+
+**Day 13 of 66DaysOfData!**
